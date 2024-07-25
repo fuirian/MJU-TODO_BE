@@ -13,7 +13,7 @@
     </td>
     <td>
         <a href="https://github.com/L3416yst">
-            <img src="https://avatars.githubusercontent.com/u/128007622?s=64&v=4" width="100px" />
+            <img src="https://avatars.githubusercontent.com/u/164713708?v=4" width="100px" />
         </a>
     </td>
   </tr>
@@ -36,39 +36,28 @@
   <tr>
     <td>
         <a href="https://github.com/KimSuMin123">
-            <img src="https://avatars.githubusercontent.com/u/127816010?v=4" width="100px" />
+            <img src="https://avatars.githubusercontent.com/u/86695347?v=4" width="100px" />
         </a>
     </td>
     <td>
         <a href="https://github.com/mj0107">
-            <img src="https://avatars.githubusercontent.com/u/127816010?v=4" width="100px" />
+            <img src="https://avatars.githubusercontent.com/u/61671704?v=4" width="100px" />
         </a>
     </td>
     <td>
         <a href="https://github.com/ujinsimSS">
-            <img src="https://avatars.githubusercontent.com/u/127816010?v=4" width="100px" />
+            <img src="https://avatars.githubusercontent.com/u/98771235?v=4" width="100px" />
         </a>
     </td>
   </tr>
   <tr>
     <td><b>김수민</b></td>
-  </tr>
-  <tr>
     <td><b>김민준</b></td>
-  </tr>
-  <tr>
     <td><b>심유진</b></td>
   </tr>
   <tr>
     <td><b>FE Developer</b></td>
-  </tr>
-  <tr>
     <td><b>FE Developer</b></td>
-  </tr>
-  <tr>
-    <td><b>FE Developer</b></td>
-  </tr>
-  <tr>
     <td><b>FE Developer</b></td>
   </tr>
 </table>
